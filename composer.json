@@ -1,5 +1,5 @@
 {
-  "name": "google/photos-library",
+  "name": "marcandre/google-photos-library",
   "type": "library",
   "description": "Google Photos Library API Client Library for PHP",
   "keywords": ["google","google photos"],
